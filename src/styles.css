@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+
+.card {
+    margin: 20px;
+    width: 200px;
+
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
